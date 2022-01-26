@@ -18,6 +18,5 @@ public class AppConfig {
         Cat cat = new Cat();
         cat.setAge("10");
         return cat;
-
     }
 }

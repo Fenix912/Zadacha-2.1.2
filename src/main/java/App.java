@@ -18,7 +18,5 @@ public class App {
         // Сравниваем 2 пары бинов по ссылке
         System.out.println(bean == bean2);
         System.out.println(cat == cat2);
-
-
     }
 }

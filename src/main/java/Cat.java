@@ -5,6 +5,7 @@ public class Cat {
     public String getAge() {
         return age;
     }
+
     public void setAge(String age) {
         this.age = age;
     }
